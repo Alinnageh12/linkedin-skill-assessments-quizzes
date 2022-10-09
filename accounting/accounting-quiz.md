@@ -98,8 +98,8 @@
 #### Q14. What would be deducted from the balance per books when doing a bank reconciliation?
 
 - [ ] deposits in transit
-- [ ] bank service fees
-- [x] outstating checks
+- [×] bank service fees
+- [ ] outstating checks
 - [ ] electronic fund transfers/payments
 
 #### Q15. What situation could be the results of the three retails store employees sharing the same cash register?
