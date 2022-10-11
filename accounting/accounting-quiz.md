@@ -296,7 +296,8 @@
 - [ ] profitability analysis
 - [ ] cost-benefit analysis
 - [ ] life-cycle costing
-- [ ] activity analysis
+- [×] activity analysis
+http://basiccollegeaccounting.com/2010/08/managerial-accounting-quiz-on-cost-behavior/
 
 I put cost-benefit analysis, but I'm not sure. I think it could be life-cycle costing as well.
 
@@ -331,8 +332,8 @@ I put cost-benefit analysis, but I'm not sure. I think it could be life-cycle co
 
 - [ ] FIFO cost of goods sold will be the same as in a periodic inventory system.
 - [ ] Average costs are based entirely on unit cost simple averages.
-- [ ] LIFO cost of goods sold will be the same as in a periodic inventory system.
-- [x] A new average is calculated under the average cost method after each sale.
+- [×] LIFO cost of goods sold will be the same as in a periodic inventory system.
+- [ ] A new average is calculated under the average cost method after each sale.
 
 I'm not 100% sure on this.
 
